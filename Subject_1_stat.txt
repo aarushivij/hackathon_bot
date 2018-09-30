@@ -1,0 +1,5 @@
+Roll Name Tut_stat Prac_stat
+18312032 Soumyadeep_Maji 7 8
+18312022 Nupur_Agrawal 1 2
+18312001 Aarushi_Vij 4 5
+18115100 Shreyansh_Soni 6 7

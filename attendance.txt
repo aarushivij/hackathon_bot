@@ -1,0 +1,5 @@
+Enrollment number Name Status
+18312001 aarushi_vij P P P A P
+18312022 nupur_agrawal P A P P A
+18312032 saumyadeep_maji P P A P P
+18115100 shreyansh_soni A A P P P

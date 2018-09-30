@@ -1,0 +1,5 @@
+enrollment_no name branch year bhawan groups email-id
+18312022 Nupur_Agrawal MSM 1st Sarojini none nagrawal@ma.iitr.ac.in
+18312001 Aarushi_Vij MSM 1st Sarojini none avij@ma.iitr.ac.in
+18312032 Soumyadeep_Maji MSM 1st Rajendra none smaji@ma.iitr.ac.in
+18115100 Shreyansh_Soni EE 1st Rajendra none ssoni@ee.iitr.ac.in
